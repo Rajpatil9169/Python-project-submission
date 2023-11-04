@@ -1,1 +1,1 @@
-# classification-model-to-identify-disease
+# Python project submission 
